@@ -10,5 +10,3 @@ programa {
     escreva("--- Multiplicador de Números Positivos ---\n")
 
     escreva("Digite números positivos (digite 0 para sair):\n")
-  }
-}
