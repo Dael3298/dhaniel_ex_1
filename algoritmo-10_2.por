@@ -14,7 +14,7 @@ programa {
         escreva("Multiplicado! Produto atual: ", multiplicacao, "\n")
       }
       senao {
-        escreva("Número negativo ignorado. Digite apenas números positivos ou 0 para sair.\n")
+        escreva("Erro!!. Digite apenas números positivos ou 0 para sair.\n")
       }
     }
   }
