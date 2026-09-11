@@ -1,8 +1,5 @@
 //Segundo cOmmit :)
 
-programa {
-  funcao inicio() {
-
    enquanto (continuar) {
       leia(numero)
 
@@ -17,5 +14,3 @@ programa {
         escreva("Erro!!. Digite apenas números positivos ou 0 para sair.\n")
       }
     }
-  }
-} 
