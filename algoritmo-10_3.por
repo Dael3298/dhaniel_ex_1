@@ -1,8 +1,5 @@
 //Terceiro Commit :)
 
-programa {
-  funcao inicio() {
-
     se (multiplicacao == 1.0) {
 
       escreva("\nNenhum número positivo foi digitado.\n")
